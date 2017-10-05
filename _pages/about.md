@@ -17,6 +17,6 @@ My girlfriend is Zheng Liu. She is pretty and smart. I love her very much.
 
 Publications
 ---
-Blood Pressure Prediction via Recurrent Models with Contextual Layer. *WWW 2017*  
+Blood Pressure Prediction via Recurrent Models with Contextual Layer. *WWW 2017*   
 **Xiaohan Li**, Shu Wu, Liang Wang
 
