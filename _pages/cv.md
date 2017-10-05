@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* 2016.3 - 2017.6: Research Assistant  
-  * Chinese Academy of Science, Automation Institute  
-  * Supervisor: Prof. Shu Wu  
+* Research Assistant, 2016.3 - 2017.6  
+  * Chinese Academy of Science, Automation Institute       
+  * Supervisor: Prof. Shu Wu  
 
-* 2017.6 - 2017.9: R&D Engineer Intern  
-  * Alibaba  
-  * Supervisor: Mr. Zhongyi Liu  
+* R&D Engineer Intern, 2017.6 - 2017.9  
+  * Alibaba    
+  * Supervisor: Mr. Zhongyi Liu  
 
