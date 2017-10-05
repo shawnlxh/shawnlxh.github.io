@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * Research Assistant, 2016.3 - 2017.6  
-  * Chinese Academy of Science, Automation Institute       
+  * Chinese Academy of Science, Automation Institute  
   * Supervisor: Prof. Shu Wu  
 
 * R&D Engineer Intern, 2017.6 - 2017.9  
