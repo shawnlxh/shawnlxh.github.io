@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Computer Science, Beijing University of Posts and Telecommunications, 2016  
-* Ph.D in Computer Science, University of Illinois at Chicago, 2022 (expected)  
+* Ph.D in Computer Science, University of Illinois at Chicago, 2017-2022 (expected)
+* B.Eng. in Computer Science, Beijing University of Posts and Telecommunications, 2012-2016    
 
 Work experience
 ======
