@@ -20,5 +20,5 @@ Publications
 Blood Pressure Prediction via Recurrent Models with Contextual Layer. *WWW 2017* (Accpetance rate: 17.0%)     
 **Xiaohan Li**, Shu Wu, Liang Wang  [PDF](shawnlxh.github.io/files/paper1.pdf)
 
-Blood Pressure Prediction via Recurrent Models with Contextual Layer. *ICDM 2020 Regular Paper* (Accepetance rate: 9.8%)     
-**Xiaohan Li**, Mengqi Zhang, Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu  [PDF](shawnlxh.github.io/files/ICDM2020-CR.pdf)
+Dynamic Graph Collaborative Filtering. *ICDM 2020 Regular Paper* (Accepetance rate: 9.8%)     
+**Xiaohan Li**, Mengqi Zhang, Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu  [PDF](shawnlxh.github.io/files/ICDM2020-CR.pdf) [Slides](shawnlxh.github.io/files/icdm-22.pdf)
