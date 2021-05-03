@@ -25,9 +25,9 @@ Work experience
   * Supervisor: Mr. Zhongyi Liu  
 
 * Data Scientist Intern, 2020.6 - 2020.8  
-  * Walmart Labs
+  * Walmart Labs  
   * Supervisor: Mr. Stephen Guo
 
 * Data Scientist Intern, 2021.6 - 2020.8  
-  * Walmart Inc.
+  * Walmart Inc.  
   * Supervisor: Mr. Stephen Guo
