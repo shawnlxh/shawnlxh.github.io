@@ -29,5 +29,5 @@ Zhiwei Liu, **Xiaohan Li**, Ziwei Fan, Stephen Guo, Kannan Achan, and Philip S. 
 Heterogeneous Similarity Graph Neural Network on Electronic Health Record. *BigData 2020* Regular Paper (Accepetance rate: 15.5%)  
 Zheng Liu, **Xiaohan Li**, Lifang He, Hao Peng, and Philip Yu
 
-Medical Triage Chatbot Diagnosis Improvement viaMulti-relational Hyperbolic Graph Neural Network. *SIGIR 2021* short paper (Acceptance rate: 27.6%)
+Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. *SIGIR 2021* short paper (Acceptance rate: 27.6%)
 Zheng Liu* , **Xiaohan Li* **, Zeyu You, Tao Yang, Wei Fan, and Philip Yu.
