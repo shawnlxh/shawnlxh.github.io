@@ -18,10 +18,10 @@ My research interests are data mining and machine learning. Now I am working on 
 Publications (* means equal contribution)
 ---
 Blood Pressure Prediction via Recurrent Models with Contextual Layer. *WWW 2017* (Accpetance rate: 17.0%)     
-**Xiaohan Li**, Shu Wu, Liang Wang [PDF](shawnlxh.github.io/files/paper1.pdf)
+**Xiaohan Li**, Shu Wu, Liang Wang [PDF](shawnlxh.github.io/files/paper1.pdf)  
 
 Dynamic Graph Collaborative Filtering. *ICDM 2020* Regular Paper (Accepetance rate: 9.8%)     
-**Xiaohan Li\***, Mengqi Zhang* , Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu [PDF](shawnlxh.github.io/files/ICDM2020-CR.pdf) [Slides](shawnlxh.github.io/files/icdm-22.pdf)
+**Xiaohan Li\***, Mengqi Zhang* , Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu [PDF](shawnlxh.github.io/files/ICDM2020-CR.pdf)  [Slides](shawnlxh.github.io/files/icdm-22.pdf) 
 
 Basket Recommendation with Multi-Intent Translation Graph Neural Network. *BigData 2020* Regular Paper (Accepetance rate: 15.5%)  
 Zhiwei Liu, **Xiaohan Li**, Ziwei Fan, Stephen Guo, Kannan Achan, and Philip S. Yu  
