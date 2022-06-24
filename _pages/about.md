@@ -35,6 +35,6 @@ Zheng Liu* , **Xiaohan Li\***, Zeyu You, Tao Yang, Wei Fan, and Philip Yu
 Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network. *BigData 2021* Regular Paper (Acceptance rate: 19.9%)  
 **Xiaohan Li**, Zhiwei Liu, Stephen Guo, Zheng Liu, Hao Peng, Philip Yu, and Kannan Achan  
 
-Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB* Full paper  
+Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB 2022* Full paper  
 Zheng Liu, **Xiaohan Li**, Philip Yu
 
