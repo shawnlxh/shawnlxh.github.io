@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaohan Li"
 title_separator          : "-"
 name                     : &name "Xiaohan Li"
-description              : &description "Ph.D Student at University of Illinois at Chicago"
+description              : &description "Senior Data Scientist at Walmart Global Tech"
 url                      : https://shawnlxh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shawnlxh.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Xiaohan Li"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D student at University of Illinois at Chicago"
-  location         : "Chicago, IL"
+  bio              : "Senior Data Scientist at Walmart Global Tech"
+  location         : "San Francisco Bay Area, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ldlORaUAAAAJ&hl=en&oi=sra"
   email            :
