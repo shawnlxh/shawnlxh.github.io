@@ -19,7 +19,7 @@ Publications (* means equal contribution)
 ---
 
 Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB 2022*  
-Zheng Liu, **Xiaohan Li**, Philip Yu  
+Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3535508.3545516)
 
 Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network. *BigData 2021* Regular Paper (Acceptance rate: 19.9%)  
 **Xiaohan Li**, Zhiwei Liu, Stephen Guo, Zheng Liu, Hao Peng, Philip Yu, and Kannan Achan [PDF](https://arxiv.org/abs/2111.14036)  
