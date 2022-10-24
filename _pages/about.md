@@ -17,31 +17,31 @@ My research interests are data mining and machine learning. Now I am working on 
 
 Publications (* means equal contribution)
 ---
-Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
+Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
 **Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  
 
-Mitigating Frequency Bias in Next-Basket Recommendation via Deconfounders. *BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
+Mitigating Frequency Bias in Next-Basket Recommendation via Deconfounders. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
 **Xiaohan Li\***, Zheng Liu*, Luyi Ma, Kaushiki Nag, Stephen Guo, Philip Yu, Kannan Achan  
 
 Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB 2022*  
 Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3535508.3545516)
 
-Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network. *BigData 2021* Regular Paper (Acceptance rate: 19.9%)  
+Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network. *IEEE BigData 2021* Regular Paper (Acceptance rate: 19.9%)  
 **Xiaohan Li**, Zhiwei Liu, Stephen Guo, Zheng Liu, Hao Peng, Philip Yu, and Kannan Achan [PDF](https://arxiv.org/abs/2111.14036)  
 
-Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. *SIGIR 2021* short paper (Acceptance rate: 27.6%)  
+Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. *ACM SIGIR 2021* short paper (Acceptance rate: 27.6%)  
 Zheng Liu* , **Xiaohan Li\***, Zeyu You, Tao Yang, Wei Fan, and Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3404835.3463095)
 
-Basket Recommendation with Multi-Intent Translation Graph Neural Network. *BigData 2020* Regular Paper (Acceptance rate: 15.5%)  
+Basket Recommendation with Multi-Intent Translation Graph Neural Network. *IEEE BigData 2020* Regular Paper (Acceptance rate: 15.5%)  
 Zhiwei Liu, **Xiaohan Li**, Ziwei Fan, Stephen Guo, Kannan Achan, and Philip S. Yu [PDF](https://arxiv.org/abs/2010.11419)
 
-Heterogeneous Similarity Graph Neural Network on Electronic Health Record. *BigData 2020* Regular Paper (Acceptance rate: 15.5%)  
+Heterogeneous Similarity Graph Neural Network on Electronic Health Record. *IEEE BigData 2020* Regular Paper (Acceptance rate: 15.5%)  
 Zheng Liu, **Xiaohan Li**, Lifang He, Hao Peng, and Philip Yu. [PDF](https://arxiv.org/abs/2101.06800)
 
-Dynamic Graph Collaborative Filtering. *ICDM 2020* Regular Paper (Acceptance rate: 9.8%)     
+Dynamic Graph Collaborative Filtering. *IEEE ICDM 2020* Regular Paper (Acceptance rate: 9.8%)     
 **Xiaohan Li\***, Mengqi Zhang* , Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu [PDF](https://arxiv.org/abs/2101.02844) 
 
-Blood Pressure Prediction via Recurrent Models with Contextual Layer. *WWW 2017* (Acceptance rate: 17.0%)     
+Blood Pressure Prediction via Recurrent Models with Contextual Layer. *ACM WWW 2017* (Acceptance rate: 17.0%)     
 **Xiaohan Li**, Shu Wu, Liang Wang [PDF](https://dl.acm.org/doi/10.1145/3038912.3052604)  
 
 
