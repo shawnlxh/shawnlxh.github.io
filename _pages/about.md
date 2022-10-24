@@ -17,6 +17,11 @@ My research interests are data mining and machine learning. Now I am working on 
 
 Publications (* means equal contribution)
 ---
+Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
+**Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  
+
+Mitigating Frequency Bias in Next-Basket Recommendation via Deconfounders. *BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
+**Xiaohan Li\***, Zheng Liu*, Luyi Ma, Kaushiki Nag, Stephen Guo, Philip Yu, Kannan Achan  
 
 Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB 2022*  
 Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3535508.3545516)
