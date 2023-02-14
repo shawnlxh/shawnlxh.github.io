@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 This is Xiaohan Li.
-I am a Senior Data Scientist at Walmart Global Tech. I used to be a Ph.D. student in the University of Illinois at Chicago, under the supervision of [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/).  
+I am a Senior Data Scientist at Walmart Global Tech. I got my Ph.D. from the University of Illinois at Chicago, under the supervision of [Prof. Philip S. Yu](https://www.cs.uic.edu/PSYu/).  
 
 My research interests are data mining and machine learning. Now I am working on deep learning applications in recommender system.  
 
