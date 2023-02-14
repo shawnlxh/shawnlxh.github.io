@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaohan Li"
+title                    : "Xiaohan Li, Ph.D."
 title_separator          : "-"
-name                     : &name "Xiaohan Li"
+name                     : &name "Xiaohan Li, Ph.D."
 description              : &description "Senior Data Scientist at Walmart Global Tech"
 url                      : https://shawnlxh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaohan Li"
+  name             : "Xiaohan Li, Ph.D."
   avatar           : "photo2.jpeg"
   bio              : "Senior Data Scientist at Walmart Global Tech"
   location         : "Sunnyvale, CA"
