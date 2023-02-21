@@ -27,7 +27,7 @@ Work experience
  
 * Research Assistant, 2016.3 - 2017.6  
   * Chinese Academy of Science, Automation Institute  
-  * Supervisor: Prof. [Shu Wu](http://www.shuwu.name/)  
+  * Supervisor: [Prof. Shu Wu](http://www.shuwu.name/)  
 
 
 
