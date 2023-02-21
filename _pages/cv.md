@@ -21,15 +21,13 @@ Work experience
 
 * Data Scientist Intern, 2020.6 - 2020.8  
   * Walmart Labs  
-  * Supervisor: Mr. Stephen Guo  
 
 * R&D Engineer Intern, 2017.6 - 2017.9  
-  * Alibaba    
-  * Supervisor: Mr. Zhongyi Liu  
+  * Alibaba    
  
 * Research Assistant, 2016.3 - 2017.6  
   * Chinese Academy of Science, Automation Institute  
-  * Supervisor: Prof. Shu Wu  
+  * Supervisor: Prof. [Shu Wu](http://www.shuwu.name/)  
 
 
 
