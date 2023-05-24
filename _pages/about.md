@@ -21,10 +21,10 @@ Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of R
 Jiao Chen*, Luyi Ma*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
 
 Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
-**Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  
+**Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  [PDF](https://arxiv.org/pdf/2301.03780.pdf)  
 
 Mitigating Frequency Bias in Next-Basket Recommendation via Deconfounders. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
-**Xiaohan Li\***, Zheng Liu*, Luyi Ma, Kaushiki Nag, Stephen Guo, Philip Yu, Kannan Achan  
+**Xiaohan Li\***, Zheng Liu*, Luyi Ma, Kaushiki Nag, Stephen Guo, Philip Yu, Kannan Achan  [PDF](https://arxiv.org/pdf/2211.09072.pdf)  
 
 Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB 2022*  
 Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3535508.3545516)  
