@@ -17,6 +17,9 @@ My research interests are data mining and machine learning. Now I am working on 
 
 Publications (* means equal contribution)
 ---
+Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs.
+Jiao Chen*, Luyi Ma*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
+
 Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
 **Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  
 
@@ -24,7 +27,7 @@ Mitigating Frequency Bias in Next-Basket Recommendation via Deconfounders. *IEEE
 **Xiaohan Li\***, Zheng Liu*, Luyi Ma, Kaushiki Nag, Stephen Guo, Philip Yu, Kannan Achan  
 
 Mitigating Health Disparities in EHR via Deconfounder. *ACM BCB 2022*  
-Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3535508.3545516)
+Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://dl.acm.org/doi/abs/10.1145/3535508.3545516)  
 
 Pre-training Recommender Systems via Reinforced Attentive Multi-relational Graph Neural Network. *IEEE BigData 2021* Regular Paper (Acceptance rate: 19.9%)  
 **Xiaohan Li**, Zhiwei Liu, Stephen Guo, Zheng Liu, Hao Peng, Philip Yu, and Kannan Achan [PDF](https://arxiv.org/abs/2111.14036)  
