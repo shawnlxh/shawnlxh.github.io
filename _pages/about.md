@@ -18,7 +18,7 @@ My research interests are data mining and machine learning. Now I am working on 
 Publications (* means equal contribution)
 ---
 Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs.  
-Jiao Chen*, Luyi Ma*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
+Jiao Chen\*, Luyi Ma\*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
 
 Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
 **Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  [PDF](https://arxiv.org/pdf/2301.03780.pdf)  
