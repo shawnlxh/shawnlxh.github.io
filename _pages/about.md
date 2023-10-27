@@ -17,6 +17,9 @@ My research interests are data mining and machine learning. Now I am working on 
 
 Publications (* means equal contribution)
 ---
+A Counterfactual Fair Model for Longitudinal Electronic Health Records via Deconfounder, *IEEE ICDM 2023*  
+Zheng Liu, **Xiaohan Li**, Philip Yu  
+
 Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs.  
 Jiao Chen\*, Luyi Ma\*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
 
@@ -39,7 +42,7 @@ Basket Recommendation with Multi-Intent Translation Graph Neural Network. *IEEE 
 Zhiwei Liu, **Xiaohan Li**, Ziwei Fan, Stephen Guo, Kannan Achan, and Philip S. Yu [PDF](https://arxiv.org/abs/2010.11419)
 
 Heterogeneous Similarity Graph Neural Network on Electronic Health Record. *IEEE BigData 2020* Regular Paper (Acceptance rate: 15.5%)  
-Zheng Liu, **Xiaohan Li**, Lifang He, Hao Peng, and Philip Yu. [PDF](https://arxiv.org/abs/2101.06800)
+Zheng Liu, **Xiaohan Li**, Lifang He, Hao Peng, and Philip Yu [PDF](https://arxiv.org/abs/2101.06800)
 
 Dynamic Graph Collaborative Filtering. *IEEE ICDM 2020* Regular Paper (Acceptance rate: 9.8%)     
 **Xiaohan Li\***, Mengqi Zhang* , Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu [PDF](https://arxiv.org/abs/2101.02844) 
