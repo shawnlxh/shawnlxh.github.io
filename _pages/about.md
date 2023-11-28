@@ -17,8 +17,11 @@ My research interests are data mining and machine learning. Now I am working on 
 
 Publications (* means equal contribution)
 ---
+Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation, *IEEE BigData 2022* Regular Paper  
+Xiaolong Liu, Liangwei Yang, Zhiwei Liu, **Xiaohan Li**, Mingdai Yang, Chen Wang, Philip S Yu [PDF](https://arxiv.org/pdf/2311.09577.pdf)  
+
 A Counterfactual Fair Model for Longitudinal Electronic Health Records via Deconfounder, *IEEE ICDM 2023*  
-Zheng Liu, **Xiaohan Li**, Philip Yu  
+Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://arxiv.org/pdf/2308.11819.pdf)  
 
 Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs.  
 Jiao Chen\*, Luyi Ma\*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
