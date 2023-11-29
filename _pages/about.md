@@ -17,7 +17,7 @@ My research interests are data mining and machine learning. Now I am working on 
 
 Publications (* means equal contribution)
 ---
-Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation, *IEEE BigData 2022* Regular Paper  
+Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation, *IEEE BigData 2023* Regular Paper  
 Xiaolong Liu, Liangwei Yang, Zhiwei Liu, **Xiaohan Li**, Mingdai Yang, Chen Wang, Philip S Yu [PDF](https://arxiv.org/pdf/2311.09577.pdf)  
 
 A Counterfactual Fair Model for Longitudinal Electronic Health Records via Deconfounder, *IEEE ICDM 2023*  
