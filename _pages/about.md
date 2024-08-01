@@ -18,10 +18,10 @@ My research interests are large language models, multi-modal language models, di
 Publications (* means equal contribution)
 ---
 Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding, *ACM WWW 2024*  
-Zezhong Fan*, **Xiaohan Li*** Chenhao Fang, Kaushiki Nag, Topojoy Biswas, Jianpeng Xu, Kannan  
+Zezhong Fan*, **Xiaohan Li*** Chenhao Fang, Kaushiki Nag, Topojoy Biswas, Jianpeng Xu, Kannan. [PDF](https://dl.acm.org/doi/abs/10.1145/3589335.3651927)
 
-LLM-Ensemble: Optimal Large Language Models Ensemble Method for E-commerce Product Attribute Value Extraction. Tech Report  
-Chenhao Fang*, **Xiaohan Li***, Zezhong Fan, Jianpeng Xu, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan. [PDF](https://arxiv.org/abs/2403.00863)  
+LLM-Ensemble: Optimal Large Language Models Ensemble Method for E-commerce Product Attribute Value Extraction. *SIGIR 2024 industry track*    
+Chenhao Fang*, **Xiaohan Li***, Zezhong Fan, Jianpeng Xu, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan. [PDF](https://dl.acm.org/doi/abs/10.1145/3626772.3661357)  
 
 Group-Aware Interest Disentangled Dual-Training for Personalized Recommendation, *IEEE BigData 2023* Regular Paper  
 Xiaolong Liu, Liangwei Yang, Zhiwei Liu, **Xiaohan Li**, Mingdai Yang, Chen Wang, Philip S Yu [PDF](https://arxiv.org/pdf/2311.09577.pdf)  
@@ -56,7 +56,7 @@ Zheng Liu, **Xiaohan Li**, Lifang He, Hao Peng, and Philip Yu [PDF](https://arxi
 Dynamic Graph Collaborative Filtering. *IEEE ICDM 2020* Regular Paper (Acceptance rate: 9.8%)     
 **Xiaohan Li\***, Mengqi Zhang* , Shu Wu, Zheng Liu, Liang Wang, Philip S. Yu [PDF](https://arxiv.org/abs/2101.02844) 
 
-Blood Pressure Prediction via Recurrent Models with Contextual Layer. *ACM WWW 2017* (Acceptance rate: 17.0%)     
+Blood Pressure Prediction via Recurrent Models with Contextual Layer. *WWW 2017* (Acceptance rate: 17.0%)     
 **Xiaohan Li**, Shu Wu, Liang Wang [PDF](https://dl.acm.org/doi/10.1145/3038912.3052604)  
 
 
