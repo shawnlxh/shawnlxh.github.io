@@ -18,7 +18,7 @@ My research interests are large language models, multi-modal language models, di
 Publications (* means equal contribution)
 ---
 Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding, *ACM WWW 2024*  
-Zezhong Fan*, **Xiaohan Li*** Chenhao Fang, Kaushiki Nag, Topojoy Biswas, Jianpeng Xu, Kannan. [PDF](https://dl.acm.org/doi/abs/10.1145/3589335.3651927)
+Zezhong Fan*, **Xiaohan Li*** Chenhao Fang, Kaushiki Nag, Topojoy Biswas, Jianpeng Xu, Kannan Achan. [PDF](https://arxiv.org/pdf/2404.11589)  
 
 LLM-Ensemble: Optimal Large Language Models Ensemble Method for E-commerce Product Attribute Value Extraction. *SIGIR 2024 industry track*    
 Chenhao Fang*, **Xiaohan Li***, Zezhong Fan, Jianpeng Xu, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan. [PDF](https://dl.acm.org/doi/abs/10.1145/3626772.3661357)  
@@ -29,8 +29,8 @@ Xiaolong Liu, Liangwei Yang, Zhiwei Liu, **Xiaohan Li**, Mingdai Yang, Chen Wang
 A Counterfactual Fair Model for Longitudinal Electronic Health Records via Deconfounder, *IEEE ICDM 2023*  
 Zheng Liu, **Xiaohan Li**, Philip Yu [PDF](https://arxiv.org/pdf/2308.11819.pdf)  
 
-Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs. Tech Report    
-Jiao Chen\*, Luyi Ma\*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://arxiv.org/pdf/2305.09858.pdf)  
+Relation labeling in product knowledge graphs with large language models for e-commerce. *International Journal of Machine Learning and Cybernetics, Springer Nature (JMLC)*    
+Jiao Chen\*, Luyi Ma\*, **Xiaohan Li\***, Nikhil Thakurdesai, Jianpeng Xu, Jason H.D. Cho, Kaushiki Nag, Evren Korpeoglu, Sushant Kumar, Kannan Achan [PDF](https://link.springer.com/article/10.1007/s13042-024-02274-5)  
 
 Time-aware Hyperbolic Graph Attention Network for Session-based Recommendation. *IEEE BigData 2022* Regular Paper (Acceptance rate: 19.1%)  
 **Xiaohan Li\***, Yuqing Liu*, Zheng Liu, Philip Yu  [PDF](https://arxiv.org/pdf/2301.03780.pdf)  
